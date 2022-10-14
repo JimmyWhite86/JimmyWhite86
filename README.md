@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyWhite86
 - 👀 I’m interested in ICT
-- 🌱 I’m currently learning html, css, PHP
+- 🌱 I’m currently learning html, css, PHP, java and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrea.bianchi086@gmail.com
 
